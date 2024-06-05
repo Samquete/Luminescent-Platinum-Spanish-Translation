@@ -1,2 +1,3 @@
 # Luminescent-Platinum-Spanish-Translation
-Welcome to the Luminescent Platinum fan project where we translate the game into Spanish!
+Welcome to the Luminescent Platinum translation fan project!
+¡Bienvenido a la página de la traducción de Pokémon Luminescent Platinum!
